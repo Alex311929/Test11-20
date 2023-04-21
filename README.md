@@ -2,3 +2,4 @@
 
 
 https://www.youtube.com/watch?v=2LiJV_wojfU
+---Quantity добавить в бд
